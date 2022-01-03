@@ -10,8 +10,10 @@ If one has to look at the underlying sourcecode for an API in order to understan
 
 For an abstraction to be worthwhile, it has to gain acceptance by a group of programmers, and make their work more efficient.
 
-# RSpec and Rails, two popular libraries, but with very different results
+# Schoolboy errors when starting Ruby on Rails development
 
-Although RSpec has gained a lot of acceptance in industry, it doesn't make programmers' work any more efficient than a simpler abstraction, such as Minitest.
+RSpec and Rails, two popular libraries, but with very different results. Although RSpec has gained a lot of acceptance in industry, it doesn't make programmers' work any more efficient than a simpler abstraction, such as Minitest. Rails on the other hand, makes programmers' work more efficient, and has gained a lot of acceptance among programmers. The blogging culture surrounding Rails is an example of how this acceptance grew organically.
 
-Rails on the other hand, makes programmers' work more efficient, and has gained a lot of acceptance among programmers. The blogging culture surrounding Rails is an example of how this acceptance grew organically.
+But why are begginners are drawn to RSpec? Well, as it happens people aren't that good at finding information. Even experienced developers look for blog posts rather than looking at the API documentation, or buying a book. It is easier. But the amount of cheap blog posts about how you can make your Ruby on Rails application better are infused with fear-entrepreneur rhetoric that feeds into programmers' insecurity about their ability to build robust systems.
+
+It turns out you don't need a lot of the test harness shenanigans that a lot of these so called "expert" consultancies talk about in their blogposts. They are riddled with opinion and lacking in real facts. The proof of expertise is often shaky, based on plastering web-pages with logos of big customers. But having a big customer doesn't make you a industry leader! 
