@@ -1,6 +1,6 @@
 # Let's make the Rails Ecosystem a healthier place
 
-So many libraries, so little common sense. Please let's spread some information instead of mis-information.
+So many libraries, so little common sense. Instead of mis-information, let's spread some information.
 
 ## Is your abstraction worth it?
 
